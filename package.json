@@ -21,10 +21,10 @@
   "author": "vitogit",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.11.1",
+    "browser-sync": "^2.27.10",
     "chai": "^3.5.0",
     "jquery": "^3.0.0",
-    "karma": "^0.13.21",
+    "karma": "^6.4.1",
     "karma-chai": "^0.1.0",
     "karma-jquery": "^0.1.0",
     "karma-mocha": "^0.2.2",
